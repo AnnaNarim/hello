@@ -1,0 +1,47 @@
+h1 {
+    color: orange;
+text-align: center;
+}
+
+h3 {
+font-family: Verdana;
+text-align: center;
+}
+
+h4 {
+color: #FE9A2E;
+font-size: 20px;
+font-family: Verdana;
+}
+
+img
+{ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+ul {
+    background: #F7D358;
+    padding: 20px;
+}
+
+ul li {
+    background: #F2F5A9;
+    margin: 5px;
+}
+
+body
+{
+background-image: url("http://static.comicvine.com/uploads/original/11124/111240909/4928215-4849739599-43679.png");
+}
+
+#click{
+font-size: 50px;
+color:red;
+}
+
+#big{
+height: 500px;
+width; 1000px;
+}
